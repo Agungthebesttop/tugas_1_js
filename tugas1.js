@@ -1,6 +1,6 @@
-var nama  = "Martino";
-let msg = "Wagey";
-const msg2 = 22 ;
+var nama  = "Agung";
+let msg = "Wicaksono";
+const msg2 = 27 ;
 
 
 console.log(nama);
